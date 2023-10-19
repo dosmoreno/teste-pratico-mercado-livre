@@ -19,3 +19,13 @@ API para gerenciar usuários que faz parte do desafio Teste Prático Dev Backend
   - Clicar em run no app springbootapi
 
 O Swagger da API poderá ser acessado em http://localhost:8080/swagger-ui/index.html
+
+### Usando Docker
+
+  - Clonar repositório git
+  - Executar o comando:
+  ```
+  docker compose up
+  ```
+
+O Swagger da API poderá ser acessado em http://localhost:6868/swagger-ui/index.html
