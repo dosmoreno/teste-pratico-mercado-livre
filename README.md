@@ -23,7 +23,7 @@ O Swagger da API poderá ser acessado em http://localhost:8080/swagger-ui/index.
 ### Usando Docker
 
   - Clonar repositório git
-  - Executar o comando:
+  - Entre no diretório springbootapi e execute o comando:
   ```
   docker compose up
   ```
